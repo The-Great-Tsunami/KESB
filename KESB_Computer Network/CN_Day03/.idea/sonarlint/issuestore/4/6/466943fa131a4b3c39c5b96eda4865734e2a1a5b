@@ -1,0 +1,22 @@
+
+W
+java:S1141/"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‡ž¾Äå0
+h
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(å«Œ„ÿÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+D
+java:S3010")Remove this assignment of "clientSocket".(‹ƒÙ–ÿÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(‹ƒÙ–ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ôèúýþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºŸ©øûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ãì´Äüÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(„÷£Œ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(†ö…¢
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¶ì–íùÿÿÿÿ
+B
+java:S16591"%Declare "operand" on a separate line.(¿€Ö·8‰¡¾Äå0
+=	java:S131<""Add a default case to this switch.(î­™o8š¡¾Äå0
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(­öÔŽýÿÿÿÿ
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(Ãì´Äüÿÿÿÿ8¥¡¾Äå0

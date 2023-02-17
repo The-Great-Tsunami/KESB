@@ -1,0 +1,22 @@
+
+g	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8…”¯Êä0
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8†”¯Êä0
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İŞ²Æûÿÿÿÿ
+]
+java:S2259)"@A "NullPointerException" could be thrown; "br" is nullable here.(µÖ€’8˜”¯Êä0
+g
+java:S2259'"JA "NullPointerException" could be thrown; "clientSocket" is nullable here.(²­¨8¬ÆÊä0
+b
+java:S2259("@A "NullPointerException" could be thrown; "pw" is nullable here.(¢¿ˆşÿÿÿÿÿ8˜”¯Êä0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëÜ¬ğ8›”¯Êä0
+X	java:S125"<This block of commented-out lines of code should be removed.(¾†Ö8ãªÌÊä0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜èËøÿÿÿÿ8Ÿ”¯Êä0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÊ©Ü8 ”¯Êä0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(”ƒ„şÿÿÿÿ8¡”¯Êä0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(òÙÌÉûÿÿÿÿ8¢”¯Êä0
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8£”¯Êä0
+T
+java:S1128"2Remove this unused import 'java.net.ServerSocket'.(ĞúÙÿÿÿÿÿ8Ô¯ÇÊä0

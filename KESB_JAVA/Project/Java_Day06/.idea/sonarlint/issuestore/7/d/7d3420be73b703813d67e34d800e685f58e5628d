@@ -1,0 +1,73 @@
+
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Îœäøÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Îœäøÿÿÿÿ
+b	java:S101i"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áùï¨
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûËÍıÿÿÿÿ
+L
+java:S1610"6Convert the abstract class "Mammal" into an interface.(è”›±
+T
+java:S5993"9Change the visibility of this constructor to "protected".(Ù İĞùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Î¿±ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷µ¥Ãûÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(õÆ‹é
+;
+java:S3457"%String contains no format specifiers.(õÆ‹é
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õÆ‹é
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(Ë˜Ó
+K
+java:S2209"5Change this instance-reference to a static reference.(Ë˜Ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÑÀ‚şÿÿÿÿ
+g
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(üÌ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(üÌ
+l
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(Õ®Ä¢ÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Õ®Ä¢ÿÿÿÿÿ
+P
+java:S1161*":Add the "@Override" annotation above this method signature(Àİì
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(è½â‰
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ô¥Äñ
+<
+java:S1170A"!Make this final field static too.(êªÀçıÿÿÿÿ
+g
+java:S34575"Q%n should be used in place of \n to produce the platform-specific line separator.(´›™„
+;
+java:S34575"%String contains no format specifiers.(´›™„
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(´›™„
+U
+java:S1161V":Add the "@Override" annotation above this method signature(“ûâ£şÿÿÿÿ
+l
+java:S3457Y"Q%n should be used in place of \n to produce the platform-specific line separator.(§¾ãØúÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(§¾ãØúÿÿÿÿ
+l
+java:S3457Z"Q%n should be used in place of \n to produce the platform-specific line separator.(åÉœÔıÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(åÉœÔıÿÿÿÿ
+g
+java:S3457["Q%n should be used in place of \n to produce the platform-specific line separator.(„İà™
+N	java:S106["9Replace this use of System.out or System.err by a logger.(„İà™
+g
+java:S3457\"Q%n should be used in place of \n to produce the platform-specific line separator.(–ë¼İ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(–ë¼İ
+g
+java:S3457]"Q%n should be used in place of \n to produce the platform-specific line separator.(¬¼Äÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¬¼Äÿ
+f
+java:S3457^"Q%n should be used in place of \n to produce the platform-specific line separator.(çÔA
+M	java:S106^"9Replace this use of System.out or System.err by a logger.(çÔA
+g
+java:S3457_"Q%n should be used in place of \n to produce the platform-specific line separator.(”·È™
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(”·È™
+g
+java:S3457`"Q%n should be used in place of \n to produce the platform-specific line separator.(§Ãï
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(§Ãï
+O
+java:S1161b":Add the "@Override" annotation above this method signature(ËÈÖ
+f
+java:S3457b"Q%n should be used in place of \n to produce the platform-specific line separator.(ËÈÖ
+M	java:S106b"9Replace this use of System.out or System.err by a logger.(ËÈÖ
+U
+java:S1161d":Add the "@Override" annotation above this method signature(¡¾·Œûÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(Áâ³¿øÿÿÿÿ

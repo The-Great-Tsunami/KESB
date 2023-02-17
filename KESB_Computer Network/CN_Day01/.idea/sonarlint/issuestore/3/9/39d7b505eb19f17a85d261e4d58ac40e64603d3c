@@ -1,0 +1,16 @@
+
+n
+java:S1104
+"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±8œ†Âä0
+H
+java:S1444
+"+Make this "public static count" field final(˜“ÿ±8†Âä0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó…½¸8ÅìşÂä0
+[
+java:S5993"9Change the visibility of this constructor to "protected".(¼Ô¥şûÿÿÿÿ8©†Âä0
+D
+java:S3010""Remove this assignment of "count".(É¡Ò©üÿÿÿÿ8°†Âä0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(›éÎ58»†Âä0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÕ‡ëøÿÿÿÿ8½†Âä0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ê¿Á!8¾†Âä0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×üé8¿†Âä0

@@ -1,0 +1,8 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬Óã 
+¤
+java:S1598"This file "Day02_03_Q1.java" should be located in "Day03" directory, not in "/Users/the_great_tsunami/Documents/KEB/JAVA/Project/Java_Day02".(¶„²¦
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶„²¦
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹ ö˜úÿÿÿÿ8­¥úºà0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¯¥úºà0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¯¥úºà0

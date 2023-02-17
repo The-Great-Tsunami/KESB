@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/the_great_tsunami/Documents/KEB/JAVA/Project/.metadata/.plugins/org.eclipse.jdt.core
+3981961839.index
+1865797976.index
+3161005497.index

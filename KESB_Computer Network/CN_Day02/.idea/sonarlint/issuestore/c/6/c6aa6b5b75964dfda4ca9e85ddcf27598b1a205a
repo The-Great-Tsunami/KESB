@@ -1,0 +1,15 @@
+
+`	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Q
+java:S3740 "/Provide the parametrized type for this generic.(İ•µÇıÿÿÿÿ8•é¸íä0
+W
+java:S1141"5Extract this nested try block into a separate method.(ê«ûÕşÿÿÿÿ8òßˆíä0
+a	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÂÄ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÔãòÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—á¼†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼è¢Åüÿÿÿÿ
+H
+java:S2201%",The return value of "allMatch" must be used.(©©èY8 é¸íä0
+S	java:S106""9Replace this use of System.out or System.err by a logger.(²€‰ùÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ª„òÇüÿÿÿÿ

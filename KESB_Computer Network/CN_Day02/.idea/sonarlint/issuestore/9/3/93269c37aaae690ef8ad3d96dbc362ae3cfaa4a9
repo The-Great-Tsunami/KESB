@@ -1,0 +1,17 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·áýßüÿÿÿÿ
+a
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ûž—
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "buffer".(çöžýýÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ìÕõ‹ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ƒÈ½øÿÿÿÿ
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(²ý…¦ûÿÿÿÿ

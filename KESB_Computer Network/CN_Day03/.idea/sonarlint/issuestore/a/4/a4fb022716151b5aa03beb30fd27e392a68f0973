@@ -1,0 +1,17 @@
+
+h
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(å«Œ„ÿÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+D
+java:S3010")Remove this assignment of "clientSocket".(‹ƒÙ–ÿÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(‹ƒÙ–ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ôèúýþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºŸ©øûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ãì´Äüÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(„÷£Œ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(†ö…¢
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Áç¡í
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(­öÔŽýÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(Ãì´Äüÿÿÿÿ

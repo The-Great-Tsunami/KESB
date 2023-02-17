@@ -1,0 +1,16 @@
+
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+P
+java:S1141"5Extract this nested try block into a separate method.(ê«ûÕþÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³¾‚®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÔãòÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—á¼†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼è¢Åüÿÿÿÿ
+B
+java:S1481"-Remove this unused "socketIn" local variable.(ˆÿ®d
+B
+java:S2201-",The return value of "allMatch" must be used.(©®•á
+7
+java:S3864)"!Remove this use of "Stream.peek".(¤˜Ó¸
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(°Ãü‹
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ª„òÇüÿÿÿÿ

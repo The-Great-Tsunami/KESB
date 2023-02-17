@@ -1,0 +1,7 @@
+
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üáşØüÿÿÿÿ
+n
+java:S2095"QUse try-with-resources or close this "ReadableByteChannel" in a "finally" clause.(ƒş®“8ƒ…Åä0
+K
+java:S1481")Remove this unused "line" local variable.(ÑÕšøÿÿÿÿ8ŠÆšÅä0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÍƒËúÿÿÿÿ8ŠÆšÅä0

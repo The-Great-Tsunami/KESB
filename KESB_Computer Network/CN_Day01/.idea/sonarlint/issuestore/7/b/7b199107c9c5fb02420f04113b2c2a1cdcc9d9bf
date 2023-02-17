@@ -1,0 +1,13 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8û¶şÁä0
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÄ³8ü¶şÁä0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó…½¸8Ë¦şÂä0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢öÔëşÿÿÿÿ8¹¸şÁä0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼×ê­8¹¸şÁä0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÈÂàúÿÿÿÿ8Å¸şÁä0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÚıŒ8Æ¸şÁä0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ò¥£c8Ç¸şÁä0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î÷ª•şÿÿÿÿ8È¸şÁä0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(µİ«á8Ê¸şÁä0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(†è¼ıÿÿÿÿ8Ë¸şÁä0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(µİ«á8Í¸şÁä0

@@ -1,0 +1,50 @@
+
+¡
+java:S1192\"Define a constant instead of duplicating this literal "í˜„ì¬ ìë™ì°¨ ì†ë„ì˜ ì†ë„ëŠ” ì‹œì† %dkm/h ì…ë‹ˆë‹¤.
+" 3 times.(ª™à…ÿÿÿÿÿ8ÃáÑ·à0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€†ğ¨8ÄáÑ·à0
+i	java:S101:"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ğğ¤8ÄáÑ·à0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ßÿ·§ÿÿÿÿÿ8ÒáÑ·à0
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(É¦³šúÿÿÿÿ8ÒáÑ·à0
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(öÅØıÿÿÿÿ8ÓáÑ·à0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ã…Ï¦úÿÿÿÿ8ÔáÑ·à0
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(Ùâµùÿÿÿÿ8ÔáÑ·à0
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÑÀøù8ÔáÑ·à0
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(Üµê‡8ÕáÑ·à0
+n
+java:S3457X"Q%n should be used in place of \n to produce the platform-specific line separator.(ÆÎìÔ8ÕáÑ·à0
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(ÆÎìÔ8ÕáÑ·à0
+s
+java:S3457Y"Q%n should be used in place of \n to produce the platform-specific line separator.(²ø˜¶øÿÿÿÿ8ÕáÑ·à0
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(²ø˜¶øÿÿÿÿ8ÕáÑ·à0
+m
+java:S3457Z"Q%n should be used in place of \n to produce the platform-specific line separator.(Æà³>8ÖáÑ·à0
+T	java:S106Z"9Replace this use of System.out or System.err by a logger.(Æà³>8ÖáÑ·à0
+n
+java:S3457["Q%n should be used in place of \n to produce the platform-specific line separator.(åûÄ¯8ÖáÑ·à0
+U	java:S106["9Replace this use of System.out or System.err by a logger.(åûÄ¯8ÖáÑ·à0
+s
+java:S3457\"Q%n should be used in place of \n to produce the platform-specific line separator.(ª™à…ÿÿÿÿÿ8ÖáÑ·à0
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(ª™à…ÿÿÿÿÿ8ÖáÑ·à0
+n
+java:S3457]"Q%n should be used in place of \n to produce the platform-specific line separator.(Ï¯Å”8ÖáÑ·à0
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(Ï¯Å”8×áÑ·à0
+m
+java:S3457^"Q%n should be used in place of \n to produce the platform-specific line separator.(¡ë®I8×áÑ·à0
+T	java:S106^"9Replace this use of System.out or System.err by a logger.(¡ë®I8×áÑ·à0
+n
+java:S3457c"Q%n should be used in place of \n to produce the platform-specific line separator.(ÚÊæÆ8×áÑ·à0
+B
+java:S3457c"%String contains no format specifiers.(ÚÊæÆ8×áÑ·à0
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(ÚÊæÆ8×áÑ·à0
+s
+java:S3457f"Q%n should be used in place of \n to produce the platform-specific line separator.(©×Õöûÿÿÿÿ8ØáÑ·à0
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(©×Õöûÿÿÿÿ8ØáÑ·à0
+s
+java:S3457g"Q%n should be used in place of \n to produce the platform-specific line separator.(ææÁıÿÿÿÿ8ØáÑ·à0
+G
+java:S3457g"%String contains no format specifiers.(ææÁıÿÿÿÿ8ØáÑ·à0
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(ææÁıÿÿÿÿ8ØáÑ·à0
+n
+java:S3457i"Q%n should be used in place of \n to produce the platform-specific line separator.(Ãƒ×—8ØáÑ·à0
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(Ãƒ×—8ØáÑ·à0

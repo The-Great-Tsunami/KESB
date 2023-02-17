@@ -1,0 +1,31 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Îœäøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Îœäøÿÿÿÿ
+g	java:S1010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ç¢‘šüÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(üÌ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üÌ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Õ®Ä¢ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ®Ä¢ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Í«ë»ùÿÿÿÿ
+g
+java:S3457#"Q%n should be used in place of \n to produce the platform-specific line separator.(´›™„
+;
+java:S3457#"%String contains no format specifiers.(´›™„
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(´›™„
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(£çŒŠ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¢¹ûÿÿÿÿ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(á€ğ'
+M	java:S106."9Replace this use of System.out or System.err by a logger.(ëÔÑP
+V	java:S1251"<This block of commented-out lines of code should be removed.(Àı ııÿÿÿÿ
+l
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(üŞ™·úÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(üŞ™·úÿÿÿÿ
+l
+java:S3457E"Q%n should be used in place of \n to produce the platform-specific line separator.(°–Ù§úÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(°–Ù§úÿÿÿÿ
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ŸÛÚ´à0
+?
+java:S1144(")Remove this unused private "show" method.(ŠÊ‚†
